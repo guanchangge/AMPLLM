@@ -1,0 +1,1 @@
+from .BertForSequenceRepresentation import BertForSequenceRepresentation
